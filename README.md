@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-https://chan-gida.github.io/kadai07_basic_php/
+[https://silverbat3.sakura.ne.jp/php01/]
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
